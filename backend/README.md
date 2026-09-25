@@ -7,7 +7,7 @@ detection, data-quality review flagging, and a conversational financial analyst.
 Built for the FINZ Software Engineering Internship take-home challenge.
 
 ## Live app
-http://127.0.0.1:8000/docs#/default/ingest_api_ingest_post
+https://finz-financial-review-l4zs.onrender.com/docs
 
 ## Architecture
 backend/
